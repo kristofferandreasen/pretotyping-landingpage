@@ -1,5 +1,7 @@
 # [Pretotyping Landing Page Template](https://kristofferandreasen.github.io/pretotyping-landingpage/)
 
+[Project Page](https://kristofferandreasen.github.io/pretotyping-landingpage/)
+
 This template is meant as a starting point to quickly pretotype ideas. With this template you have a beautiful page that is easy to customize.
 It's built around showcasing cards from different categories.
 
