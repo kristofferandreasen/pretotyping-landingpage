@@ -16,8 +16,9 @@ To begin using this template, choose one of the following options to get started
 The project is a simple template built using HTML, CSS, SCSS and JavaScript.
 Gulp is used as a task manager.
 
-1. Run `gulp dev` to start the development environment.
-2. To build the project run `gulp`.
+1. Run `npm install` to install all dependencies. 
+2. Run `gulp dev` to start the development environment.
+3. To build the project run `gulp`.
 
 You should now have a finished build.
 
